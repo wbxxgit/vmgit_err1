@@ -1,0 +1,2 @@
+---- netstatebit_last changed Matches (1 in 1 files) ----
+d_dualNetCheck in dev_network.c (Z:\gaosi\sdk_gaos1\zj_sdk\device\src) : 		DPRI_INFO("netstatebit_last changed[%d]\n",pwifimsg->netstatebit);
